@@ -1,6 +1,8 @@
 # indihood
 
 ![alt text](https://github.com/soumyasethy/indihood/blob/master/android.gif)
+![alt text](https://github.com/soumyasethy/indihood/blob/master/iOS.gif)
+![alt text](https://github.com/soumyasethy/indihood/blob/master/web.gif)
 
 ## How to Run
 
