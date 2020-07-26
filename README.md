@@ -1,6 +1,6 @@
 # indihood
 
-A new Flutter application.
+![alt text](https://github.com/soumyasethy/indihood/blob/master/android.gif)
 
 ## How to Run
 
